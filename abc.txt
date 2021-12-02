@@ -1,11 +1,5 @@
 test
-abctest creation
-test
-abctest creation
-test
-abctest creation
-test
-abctest creation
-test
-abctest creationtest
-abctest creation
+
+updating abc.txt
+
+local changes
